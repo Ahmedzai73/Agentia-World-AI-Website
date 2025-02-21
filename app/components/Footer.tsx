@@ -189,7 +189,7 @@ export default function Footer() {
                     className=" mt-8 pt-8 border-t border-purple-500/10 text-center text-gray-400"
                 >
                     <p className="">
-                        © 2025 Agentia World. Powered by Panaversity. All rights reserved.
+                        © 2025 Agentia World. Powered by Panaversity. All rights reserved. | Developed by Ahmed Zai
                     </p>
                 </div>
             </div>

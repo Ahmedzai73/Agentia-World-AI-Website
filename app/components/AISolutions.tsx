@@ -14,7 +14,7 @@ export default function AISolutions() {
                         Transforming industries with intelligent agents
                     </p>
                 </div>
-                <div className=" grid md:grid-cols-3 gap-8">
+                <div className=" grid md:grid-cols-3 gap-8 cursor-pointer">
                     <div
                         className=" p-6 rounded-xl bg-white/5 border border-purple-500/10 hover:border-purple-500/30 transition-all duration-300"
                     >

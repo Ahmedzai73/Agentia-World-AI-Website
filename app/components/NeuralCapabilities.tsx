@@ -19,12 +19,12 @@ export default function NeuralCapabilities() {
                         Powered by next-generation artificial intelligence
                     </p>
                 </div>
-                <div className=" grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+                <div className=" grid md:grid-cols-2 lg:grid-cols-4 gap-8 cursor-pointer">
                     <div
                         className=" p-6 rounded-xl bg-gradient-to-b from-white/5 to-white/0 border border-purple-500/10 hover:border-purple-500/30 transition-all duration-300 transform hover:scale-105"
                     >
                         <div
-                            className=" w-12 h-12 rounded-lg bg-gradient-to-br from-purple-600 to-blue-600 flex items-center justify-center mb-4"
+                            className=" w-12 h-12 rounded-lg bg-gradient-to-br from-purple-600 to-blue-600 flex items-center justify-center mb-4 "
                         >
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"
@@ -53,7 +53,7 @@ export default function NeuralCapabilities() {
                                 <path d="M19.967 17.484A4 4 0 0 1 18 18"></path>
                             </svg>
                         </div>
-                        <h3 className=" text-xl font-bold mb-2">
+                        <h3 className=" text-xl font-bold mb-2 ">
                             Autonomous Learning
                         </h3>
                         <p className=" text-gray-400">

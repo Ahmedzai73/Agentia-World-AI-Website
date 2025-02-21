@@ -14,7 +14,7 @@ export default function ChooseYourPlan() {
                         Scale your AI capabilities with our flexible pricing
                     </p>
                 </div>
-                <div className=" grid md:grid-cols-3 gap-8">
+                <div className=" grid md:grid-cols-3 gap-8 cursor-pointer">
                     <div
                         className=" p-8 rounded-xl bg-white/5 border border-purple-500/10 transition-all duration-300 transform hover:scale-105"
                     >

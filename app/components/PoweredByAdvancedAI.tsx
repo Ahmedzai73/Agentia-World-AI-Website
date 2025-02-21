@@ -17,7 +17,7 @@ export default function PoweredByAdvancedAI() {
           {/* Technology Cards Grid */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             {/* Card 1: Neural Networks */}
-            <div className="p-6 rounded-xl bg-white/5 border border-purple-500/10 hover:border-purple-500/30 transition-all duration-300 text-center group hover:transform hover:scale-105">
+            <div className="p-6 rounded-xl bg-white/5 border cursor-pointer border-purple-500/10 hover:border-purple-500/30 transition-all duration-300 text-center group hover:transform hover:scale-105">
               <div className="w-16 h-16 mx-auto rounded-xl bg-gradient-to-br from-purple-600 to-blue-600 flex items-center justify-center mb-4 group-hover:rotate-12 transition-transform">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -49,7 +49,7 @@ export default function PoweredByAdvancedAI() {
             </div>
   
             {/* Card 2: Deep Learning */}
-            <div className="p-6 rounded-xl bg-white/5 border border-purple-500/10 hover:border-purple-500/30 transition-all duration-300 text-center group hover:transform hover:scale-105">
+            <div className="p-6 rounded-xl bg-white/5 border cursor-pointer border-purple-500/10 hover:border-purple-500/30 transition-all duration-300 text-center group hover:transform hover:scale-105">
               <div className="w-16 h-16 mx-auto rounded-xl bg-gradient-to-br from-purple-600 to-blue-600 flex items-center justify-center mb-4 group-hover:rotate-12 transition-transform">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -82,7 +82,7 @@ export default function PoweredByAdvancedAI() {
             </div>
   
             {/* Card 3: Advanced ML */}
-            <div className="p-6 rounded-xl bg-white/5 border border-purple-500/10 hover:border-purple-500/30 transition-all duration-300 text-center group hover:transform hover:scale-105">
+            <div className="p-6 rounded-xl bg-white/5 border cursor-pointer border-purple-500/10 hover:border-purple-500/30 transition-all duration-300 text-center group hover:transform hover:scale-105">
               <div className="w-16 h-16 mx-auto rounded-xl bg-gradient-to-br from-purple-600 to-blue-600 flex items-center justify-center mb-4 group-hover:rotate-12 transition-transform">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -108,7 +108,7 @@ export default function PoweredByAdvancedAI() {
             </div>
   
             {/* Card 4: Global Scale */}
-            <div className="p-6 rounded-xl bg-white/5 border border-purple-500/10 hover:border-purple-500/30 transition-all duration-300 text-center group hover:transform hover:scale-105">
+            <div className="p-6 rounded-xl bg-white/5 border cursor-pointer border-purple-500/10 hover:border-purple-500/30 transition-all duration-300 text-center group hover:transform hover:scale-105">
               <div className="w-16 h-16 mx-auto rounded-xl bg-gradient-to-br from-purple-600 to-blue-600 flex items-center justify-center mb-4 group-hover:rotate-12 transition-transform">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
